@@ -1,2 +1,2 @@
 # javascript
- Curso de JavaScript disponibilizado peli curso em vídeo.
+ Curso de JavaScript disponibilizado pelo curso em vídeo.
