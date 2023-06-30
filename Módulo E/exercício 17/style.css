@@ -8,10 +8,12 @@ body{
 
 section{
     background-color: white;
+    text-align: center;
     width: 500px;   
     margin: auto;
-    padding: 5px;
+    padding: 20px;
     border-radius: 10px;
+    box-shadow: 15px 15px 0px 0px rgba(0, 0, 0, 0.204);
 }
 
 h1{
@@ -20,5 +22,5 @@ h1{
 }
 
 p{
-    text-indent: 10px;
+  line-height: 0.5;
 }

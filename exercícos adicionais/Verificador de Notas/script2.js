@@ -1,7 +1,7 @@
 function Calcular(){
-    var n1 = document.getElementById('nota1').value);
-    var n2 = document.getElementById('nota2').value); 
-    var res = document.getElementById('res').value);
+    var n1 = Number(document.getElementById('nota1').value)
+    var n2 = Number(document.getElementById('nota2').value)
+    var res = Number(document.getElementById('res').value)
 
     var med = (c1 + c2)/ 2;
 
